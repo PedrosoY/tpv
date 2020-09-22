@@ -1,5 +1,8 @@
 body{
     margin-left: 40%;
+    margin: auto;
+    padding-left: 25%;
+    color: white;
 }
 .formulario{
     width: 400px;
